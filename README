@@ -1,6 +1,6 @@
 renderproto
 ------------------------------------------
-Xorg XRender protocol headers
+X.Org XRender protocol headers
 
 Build requirements:
   cygwin-1.5.24-2
